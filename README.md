@@ -2,7 +2,7 @@
 # My Name is : ✨ Muhammad Nabih ✨
 ### Software Engineer 💻
 
-[![Click Me](https://cdn-icons-png.flaticon.com/128/3536/3536505.png){: width="20" height="20"}](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/)
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="64" height="64"/>](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/)
 
  Linkedin : (
 ✉️ Contact : Mohammed.nabih68@gmail.com 
