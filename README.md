@@ -2,9 +2,9 @@
 # My Name is : ✨ Muhammad Nabih ✨
 ### Software Engineer 💻
 
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="64" height="64"/>](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/)
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50" height="50"/>](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/)
+[<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="50" height="50"/>](mailto:Mohammed.nabih68@gmail.com)
 
- Linkedin : (
 ✉️ Contact : Mohammed.nabih68@gmail.com 
 
 ##### A Software Engineer,   Have a good skills in ASP .NET Development using Cleanarch 4 Layers, a good knowledge with Entity FrameWork and SOLID, Have a good knowledge in REST APIs
