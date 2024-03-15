@@ -1,8 +1,8 @@
 ### Hi there 👋
 # My Name is : ✨ Muhammad Nabih ✨
 ### Software Engineer 💻
-To Contact
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50" height="50"/>](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/) - [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="50" height="50"/>](mailto:Mohammed.nabih68@gmail.com)
+###### To Contact
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="35" height="35"/>](https://www.linkedin.com/in/muhammed-nabih-b272a71ba/)   ||   [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="35" height="35"/>](mailto:Mohammed.nabih68@gmail.com)
 
 ✉️ Contact : Mohammed.nabih68@gmail.com 
 
