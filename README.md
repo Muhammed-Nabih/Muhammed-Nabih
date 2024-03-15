@@ -18,7 +18,7 @@
 - C++ , C# , Python , Dart , Java , JS
 - ASP .NET 7
 - HTML , CSS , BootStrap
-- Angular JS
+- Angular +2
 
  
 
