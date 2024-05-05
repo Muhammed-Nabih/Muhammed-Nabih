@@ -30,7 +30,7 @@
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nabih&count_private=true&include_all_commits=true&theme=tokyonight" alt="Muhammed's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Nabih&layout=compact&theme=tokyonight" alt="Muhammed-Nabih's top language stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Nabih&layout=compact&theme=tokyonight" alt="Muhammed's top language stats" />
 </p>
  
 
