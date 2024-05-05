@@ -1,5 +1,5 @@
 ### Hi 👋
-# My Name is : ✨ Mohamed Nabih ✨
+## My Name is : ✨ Mohamed Nabih ✨
 ### Software Developer 💻
 ###### Contact :
 [<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="30" height="30"/>](https://www.linkedin.com/in/muhammad-nabih-b272a71ba/)      [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="30" height="30"/>](mailto:Mohammed.nabih68@gmail.com)
@@ -23,16 +23,18 @@
 - Testing (Unit Testing)
 - MySQL  
 - HTML , CSS , BootStrap
-- Angular 
-
-
+- Angular
+  
 ## Github Stats:
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nabih&include_all_commits=true&theme=tokyonight" alt="Muhammed's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Nabih&layout=compact&theme=tokyonight" alt="Muhammed's top language stats" />
 </p>
+
  
+![Profile Visitors](https://komarev.com/ghpvc/?username=Muhammed-Nabih&color=blueviolet)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammed-Nabih)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Muhammed-Nabih/Muhammed-Nabih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
