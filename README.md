@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">.NET Developer with a foundation in ASP.NET Development, expertise in Clean Architecture , MVC, and SOLID principles. Demonstrated knowledge and experience in REST API, Entity Framework, LINQ and Domain Driven Design (DDD). Familiarity with Angular Framework, with a focus on continuous learning and improvement. Committed to delivering high-quality, efficient, and clean code. Recognized for exceptional problem-solving skills and a track record of achieving significant milestones in Problem Solving</p>
+<p align="left"> Software Engineer ( .NET Developer ) with a foundation in ASP.NET Development, expertise in Clean Architecture , MVC, and SOLID principles. Demonstrated knowledge and experience in REST API, Entity Framework, LINQ and Domain Driven Design (DDD). Familiarity with Angular Framework, with a focus on continuous learning and improvement. Committed to delivering high-quality, efficient, and clean code. Recognized for exceptional problem-solving skills and a track record of achieving significant milestones in Problem Solving</p>
 
 ###
 
@@ -96,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Muhammed-Nabih/Muhammed-Nabih/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Muhammed-Nabih/output/snake.svg" alt="Snake animation" />
 
 ###
